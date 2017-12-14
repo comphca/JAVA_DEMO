@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<persons>
+	<person>
+		<name>顾礼俊</name>
+		<age>23</age>
+	</person>
+	<person>
+		<name>牛敏</name>
+		<age>18</age>
+	</person>
+</persons>
